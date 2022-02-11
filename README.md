@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @agent-kdubb
-- 👀 I’m interested in coputer vision and machine learning.
+- 👀 I’m interested in computer vision, web design, and machine learning.
 - 🌱 I’m currently learning to program self-driving cars with Udacity.
 - 💞️ I’m looking to collaborate on projects and games coded in Python or Ruby.
 - 📫 How to reach me email: kimanimuhammad@yahoo.com
