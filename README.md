@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kimani Muhammad
+- 👋 Hi, I’m Kimani Muhammad, Junior Web Developer.
 - 👀 I’m interested in computer vision, web development, and machine learning.
 - 💞️ I’m open to collaborate on projects.
 - 📫 How to reach me email: kimanimuhammad@gmail.com
