@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @agent-kdubb
-- 👀 I’m interested in computer vision, web design, and machine learning.
-- 🌱 I’m currently learning to program self-driving cars with Udacity.
-- 💞️ I’m looking to collaborate on projects and games coded in Python or Ruby.
-- 📫 How to reach me email: kimanimuhammad@yahoo.com
+- 👋 Hi, I’m Kimani Muhammad
+- 👀 I’m interested in computer vision, web development, and machine learning.
+- 💞️ I’m open to collaborate on projects.
+- 📫 How to reach me email: kimanimuhammad@gmail.com
 
 <!---
 agent-kdubb/agent-kdubb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
