@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kimani Muhammad, Full Stack Web Developer.
-- 👀 I’m interested in computer vision, web development, and machine learning.
-- 💞️ Programming Languages/Technologies: Java, SQL, TypeScript, JavaScript, CSS, JSX, React, PostgreSQL, Docker, and AWS. 
+- 👀 I’m interested in web development, computer vision, and machine learning.
+- 💞️ Programming Languages/Technologies: Java, Spring, SQL, TypeScript, JavaScript, CSS, JSX, React, PostgreSQL, Docker, and AWS. 
 - 📫 How to reach me email: kimanimuhammad@gmail.com
 
 <!---
