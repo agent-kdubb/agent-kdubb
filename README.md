@@ -1,6 +1,13 @@
-- 👋 Hi, I’m Kimani Muhammad, Full Stack Web Developer.
-- 👀 I’m interested in web development, computer vision, and machine learning.
-- 💞️ Programming Languages/Technologies: Java, Spring, SQL, TypeScript, JavaScript, CSS, JSX, React, PostgreSQL, Docker, and AWS. 
+- 👋 Hi, I’m Kimani Muhammad. I’m a Full Stack Software Engineer with 2+ years of professional experience building scalable backend services, cloud-native applications, and modern frontend interfaces.
+
+My main tools are Java (Spring Boot), AWS (EKS, EC2, RDS, CloudWatch), React.js, and PostgreSQL. I’ve led cloud migrations, built microservices architectures, and automated testing pipelines to deliver high-quality, reliable software at scale.
+
+I’m passionate about developing innovative, user-friendly applications and excited to contribute to cutting-edge teams focused on backend development, cloud engineering, or full stack solutions.
+
+Currently pursuing my B.S. in Computer Science (expected 2026) while applying real-world engineering skills to production systems.
+
+Let’s connect!
+
 - 📫 How to reach me email: kimanimuhammad@gmail.com
 
 <!---
