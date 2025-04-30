@@ -1,4 +1,4 @@
-👋 Hi, I’m Kimani Muhammad. I’m a Full Stack Software Engineer with 2+ years of professional experience building scalable backend services, cloud-native applications, and modern frontend interfaces.
+👋🏿 Hi, I’m Kimani Muhammad. I’m a Full Stack Software Engineer with 2+ years of professional experience building scalable backend services, cloud-native applications, and modern frontend interfaces.
 
 My main tools are Java (Spring Boot), AWS (EKS, EC2, RDS, CloudWatch), React.js, and PostgreSQL. I’ve led cloud migrations, built microservices architectures, and automated testing pipelines to deliver high-quality, reliable software at scale.
 
